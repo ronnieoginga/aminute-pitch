@@ -22,4 +22,4 @@ class CommentModelTest(unittest.TestCase):
         self.assertTrue(len(Comment.query.all()) >0)
 
     def test_get_pitch_by_id(self):
-        self.assertEqual(self.new_comment.pitch_id,1)   
+        self.assertEqual(self.new_comment.pitch_id,1)
