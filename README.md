@@ -12,7 +12,7 @@ other pitches that you find interesting.in addition your you can change your pro
 
 To start using this project use the following commands:
 
-* git clone https://github.com/ronnieogingaaminute-pitch
+* git clone https://github.com/ronnieoginga/aminute-pitch
 
 * cd My Pitch
 
